@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(243, 197, 197);
+  }
+
+.FRASES_TITLE {
+    text-align: center;
+    font-size: 20px;
+   
+}
+
+.FRASES{
+    margin: auto;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.AUTHORS{
+    padding-left: 20px;
+    padding-top: 3px;
+    display: block;
+}
